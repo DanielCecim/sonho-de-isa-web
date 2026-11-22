@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795311636|45606303';
+const CACHE_VERSION = '1795312382|18048872';
 /** @type {string} */
 const CACHE_PREFIX = 'Dream of Isa-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
